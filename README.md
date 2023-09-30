@@ -24,7 +24,7 @@ Proyek ini dibangun dengan menggunakan teknologi berikut:
 Kami sangat menghargai kontribusi dari komunitas. Jika Anda ingin berkontribusi pada proyek ini, silakan kirimkan pull request.
 
 ## Lisensi
-Proyek ini dilisensikan di bawah [Lisensi] - Lihat file [LICENSE.md](LICENSE.md) untuk detail lebih lanjut.
+Proyek ini dilisensikan di bawah MIT License - Lihat file [LICENSE.md](LICENSE.md) untuk detail lebih lanjut.
 
 ## Kontak
 Jika Anda memiliki pertanyaan atau komentar, jangan ragu untuk menghubungi saya di isnanuramalia13@gmail.com.
