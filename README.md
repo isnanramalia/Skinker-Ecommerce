@@ -17,7 +17,10 @@ Proyek ini dibangun dengan menggunakan teknologi berikut:
 
 ## Panduan Penggunaan
 1. Clone repositori ini ke komputer Anda.
-2. Jalankan aplikasi dengan `php artisan serve`.
+2. Install depedensi yang diperlukan dengan `composer install` (pastikan kalian sudah install composer).
+3. Copas file `.env.example` dan rename dengan `.env` saja.
+5. Jalankan aplikasi dengan `php artisan serve`. <br>
+Lebih lengkapnya bisa kunjungi https://medium.com/@isnanramalia/jalanin-laravel-dari-cloning-repo-di-github-fb8065248dcf
 
 ## Kontribusi
 Kami sangat menghargai kontribusi dari komunitas. Jika Anda ingin berkontribusi pada proyek ini, silakan kirimkan pull request.
