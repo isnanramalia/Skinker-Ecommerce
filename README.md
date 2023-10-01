@@ -1,4 +1,4 @@
-# Skinker - Website Penjualan Skincare
+# Skinker - Website Penjualan Skincare💅🏻
 
 Selamat datang di repositori GitHub untuk website Skinker, tempat Anda dapat menemukan berbagai produk perawatan kulit dari berbagai merek terkemuka. Ini adalah repository untuk kode sumber website Skinker.
 
@@ -24,10 +24,13 @@ Proyek ini dibangun dengan menggunakan teknologi berikut:
 Kami sangat menghargai kontribusi dari komunitas. Jika Anda ingin berkontribusi pada proyek ini, silakan kirimkan pull request.
 
 ## Lisensi
-Proyek ini dilisensikan di bawah MIT License - Lihat file [LICENSE.md](LICENSE.md) untuk detail lebih lanjut.
+Proyek ini dilisensikan di bawah MIT License - Lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
 
 ## Kontak
 Jika Anda memiliki pertanyaan atau komentar, jangan ragu untuk menghubungi saya di isnanuramalia13@gmail.com.
+
+## Note
+Website ini masih dalam proses building, belum sempurna dan belum selesai sepenuhnya hehehe.
 
 Terima kasih telah mengunjungi Skinker!
 
