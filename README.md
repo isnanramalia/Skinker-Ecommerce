@@ -17,8 +17,7 @@ Proyek ini dibangun dengan menggunakan teknologi berikut:
 
 ## Panduan Penggunaan
 1. Clone repositori ini ke komputer Anda.
-2. Instal dependensi yang diperlukan dengan menjalankan `npm install`.
-3. Jalankan aplikasi dengan `npm start`.
+2. Jalankan aplikasi dengan `php artisan serve`.
 
 ## Kontribusi
 Kami sangat menghargai kontribusi dari komunitas. Jika Anda ingin berkontribusi pada proyek ini, silakan kirimkan pull request.
