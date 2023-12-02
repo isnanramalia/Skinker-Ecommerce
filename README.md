@@ -1,4 +1,4 @@
-# Skinker - Website Penjualan Skincare💅🏻
+# Skinker - Website Penjualan Skincare
 
 Selamat datang di repositori GitHub untuk website Skinker, tempat Anda dapat menemukan berbagai produk perawatan kulit dari berbagai merek terkemuka. Ini adalah repository untuk kode sumber website Skinker.
 
